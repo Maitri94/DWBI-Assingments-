@@ -1,6 +1,6 @@
 This is for  DWBI Assingment SSIS HW 01.
 
-HW2.Zip folder contains 4 files
+HW2.zip folder contains 4 files
 
 1) Extract data package:-
    It contains SSIS package to extract data from [Houmanresources].[Employee] table which is avilable in Adventuracework2014 database to csv file
